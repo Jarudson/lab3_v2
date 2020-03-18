@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String SOUND_ID = "sound_id";
     public static final int BUTTON_REQUEST = 1;
     private int current_sound = 0;
-    private MediaPlayer backgroundPlayer = MediaPlayer.create(this, R.raw.mario);
+    private MediaPlayer backgroundPlayer;
     private MediaPlayer buttonPlayer;
     static public Uri[] sounds;
     private boolean pause = true;

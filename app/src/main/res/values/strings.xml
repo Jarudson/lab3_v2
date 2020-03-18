@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab3_v2</string>
+    <string name="placeholder">placeholder</string>
+    <string name="Sounds">Sounds</string>
+    <string name="Sound1">Sound1</string>
+    <string name="Sound2">Sound2</string>
+    <string name="Sound3">Sound3</string>
+    <string name="Sound4">Sound4</string>
+    <string name="set_sound">set_sound</string>
+    <string name="current_sound_str">current_sound_str</string>
+    <string name="back_message">Back message dziala</string>
+</resources>
